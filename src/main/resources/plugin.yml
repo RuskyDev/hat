@@ -3,7 +3,7 @@ version: '${version}'
 main: me.ayaanali.hat.Hat
 api-version: '26.3'
 load: POSTWORLD
-description: Wear any item on your head with /wear.
+description: Wear any item on your head with /wear
 author: Ayaan Ali
 
 commands:
