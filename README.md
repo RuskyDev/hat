@@ -1,11 +1,20 @@
-<h1 align="center" style="font-size: 2.5em;">
-  <img src="assets/icon.png" height="48" alt="Hat icon" style="vertical-align: middle; margin-right: 12px;" />
-  <span style="vertical-align: middle;">Hat</span>
-</h1>
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle; padding-right: 12px; border: none;">
+      <img src="assets/icon.png" height="48" alt="Hat icon" />
+    </td>
+    <td style="vertical-align: middle; font-size: 2.5em; font-weight: 700; border: none;">Hat</td>
+  </tr>
+</table>
 
 <p align="center">
   <big><strong>Wear any item on your head with <code>/wear</code>.</strong></big>
 </p>
+
+## Available on
+
+[![Modrinth](https://img.shields.io/badge/Modrinth-Download-00AF5C?logo=modrinth&logoColor=white)](https://modrinth.com/plugin/hat)
+[![SpigotMC](https://img.shields.io/badge/SpigotMC-Download-F26822?logo=spigotmc&logoColor=white)](https://www.spigotmc.org/resources/hat)
 
 ## Commands
 
