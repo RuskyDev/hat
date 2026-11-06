@@ -11,7 +11,7 @@ commands:
     description: Put the item in your main hand on your head.
     usage: /<command>
     permission: hat.wear
-    permission-message: You do not have permission to use /wear.
+    permission-message: You do not have permission to use this command.
   hat:
     description: Hat plugin commands.
     usage: /<command> reload
