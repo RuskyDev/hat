@@ -22,6 +22,7 @@ class Hat : JavaPlugin(), CommandExecutor {
         loadMessages()
         getCommand("wear")?.setExecutor(this)
         getCommand("hat")?.setExecutor(this)
+        UpdateManager(this).checkForUpdates()
     }
 
     override fun onCommand(
