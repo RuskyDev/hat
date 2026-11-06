@@ -1,6 +1,6 @@
 # Hat
 
-Wear any item on your head with `/wear`.
+A simple Minecraft plugin that lets you wear any item on your head.
 
 ## Commands
 
