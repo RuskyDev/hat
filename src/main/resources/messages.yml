@@ -1,0 +1,4 @@
+only-players: "&cOnly players can use /wear"
+no-permission: "&cYou do not have permission to use this command"
+no-item: "&cYou must be holding an item to wear."
+reloaded: "&aReloaded"

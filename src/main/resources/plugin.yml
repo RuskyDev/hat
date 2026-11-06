@@ -1,0 +1,27 @@
+name: Hat
+version: '${version}'
+main: me.ayaanali.hat.Hat
+api-version: '26.3'
+load: POSTWORLD
+description: Wear any item on your head with /wear.
+author: Ayaan Ali
+
+commands:
+  wear:
+    description: Put the item in your main hand on your head.
+    usage: /<command>
+    permission: hat.wear
+    permission-message: You do not have permission to use /wear.
+  hat:
+    description: Hat plugin commands.
+    usage: /<command> reload
+    permission: hat.reload
+    permission-message: You do not have permission to use this command.
+
+permissions:
+  hat.wear:
+    description: Allows using /wear to equip held items as a hat.
+    default: op
+  hat.reload:
+    description: Allows reloading the Hat plugin configuration.
+    default: op
